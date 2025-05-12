@@ -15,7 +15,7 @@ dias_de_anos_vividos = (2025 - ano_nascimento) * dias_em_um_ano
 dias_de_mes_vividos = 5 * dias_em_um_mes
 total_de_dias_vividos = dias_de_anos_vividos + dias_de_mes_vividos + 14
 
-
+helloooow
 
 
 
